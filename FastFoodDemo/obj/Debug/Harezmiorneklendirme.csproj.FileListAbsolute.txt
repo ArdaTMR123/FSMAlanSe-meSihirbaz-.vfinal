@@ -1,0 +1,145 @@
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.AssemblyReference.cache
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme\FastFoodDemo\obj\Debug\FastFoodDemo.FirstCustomControl.resources
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme\FastFoodDemo\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.GenerateResource.cache
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.CoreCompileInputs.cache
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.CopyComplete
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v2\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v2\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v2\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v2\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.AssemblyReference.cache
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v2\FastFoodDemo\obj\Debug\FastFoodDemo.FirstCustomControl.resources
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v2\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v2\FastFoodDemo\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v2\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v2\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.GenerateResource.cache
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v2\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.CoreCompileInputs.cache
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v2\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.CopyComplete
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v2\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v2\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v3\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v3\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v3\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v3\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.AssemblyReference.cache
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v3\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v3\FastFoodDemo\obj\Debug\FastFoodDemo.FirstCustomControl.resources
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v3\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v3\FastFoodDemo\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v3\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v3\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v3\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v3\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.CopyComplete
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v3\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v3\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v3.1\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v3.1\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v3.1\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v3.1\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.AssemblyReference.cache
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v3.1\FastFoodDemo\obj\Debug\FastFoodDemo.FirstCustomControl.resources
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v3.1\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v3.1\FastFoodDemo\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v3.1\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v3.1\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.GenerateResource.cache
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v3.1\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.CoreCompileInputs.cache
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v3.1\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.CopyComplete
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v3.1\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v3.1\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.AssemblyReference.cache
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4\FastFoodDemo\obj\Debug\FastFoodDemo.FirstCustomControl.resources
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4\FastFoodDemo\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.CopyComplete
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4.1\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4.1\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4.1\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4.1\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csprojResolveAssemblyReference.cache
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4.1\FastFoodDemo\obj\Debug\FastFoodDemo.FirstCustomControl.resources
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4.1\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4.1\FastFoodDemo\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4.1\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4.1\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.GenerateResource.Cache
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.2_13\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.2_13\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.2_13\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.2_13\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.AssemblyReference.cache
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.2_13\FastFoodDemo\obj\Debug\FastFoodDemo.FirstCustomControl.resources
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.2_13\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.2_13\FastFoodDemo\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.2_13\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.2_13\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.GenerateResource.cache
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.2_13\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.CoreCompileInputs.cache
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.2_13\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.CopyComplete
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.2_13\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.2_13\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.3\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.3\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.3\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.3\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.AssemblyReference.cache
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.3\FastFoodDemo\obj\Debug\FastFoodDemo.FirstCustomControl.resources
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.3\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.3\FastFoodDemo\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.3\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.3\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.GenerateResource.cache
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.3\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.CoreCompileInputs.cache
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.3\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.CopyComplete
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.3\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.3\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4.4\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4.4\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4.4\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4.4\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.AssemblyReference.cache
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4.4\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4.4\FastFoodDemo\obj\Debug\FastFoodDemo.FirstCustomControl.resources
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4.4\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4.4\FastFoodDemo\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4.4\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4.4\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.GenerateResource.cache
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4.4\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.CoreCompileInputs.cache
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4.4\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.CopyComplete
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4.4\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+C:\Users\Ogrenci\Desktop\Harezmiorneklendirme.v4.4\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.9\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.9\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.9\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.9\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.AssemblyReference.cache
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.9\FastFoodDemo\obj\Debug\FastFoodDemo.FirstCustomControl.resources
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.9\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.9\FastFoodDemo\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.9\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.9\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.GenerateResource.cache
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.9\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.CoreCompileInputs.cache
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.9\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.CopyComplete
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.9\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.v4.9\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.vfinal\FastFoodDemo\bin\Debug\FastFoodDemo.exe.config
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.vfinal\FastFoodDemo\bin\Debug\FastFoodDemo.exe
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.vfinal\FastFoodDemo\bin\Debug\FastFoodDemo.pdb
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.vfinal\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.AssemblyReference.cache
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.vfinal\FastFoodDemo\obj\Debug\FastFoodDemo.FirstCustomControl.resources
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.vfinal\FastFoodDemo\obj\Debug\FastFoodDemo.Form1.resources
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.vfinal\FastFoodDemo\obj\Debug\FastFoodDemo.MySecondCustmControl.resources
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.vfinal\FastFoodDemo\obj\Debug\FastFoodDemo.Properties.Resources.resources
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.vfinal\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.GenerateResource.cache
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.vfinal\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.CoreCompileInputs.cache
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.vfinal\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.CopyComplete
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.vfinal\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+C:\Users\Arda Timur\Desktop\Harezmiorneklendirme.vfinal\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
+C:\Users\Eren\Desktop\MasaÜstüDosyalar\projeandosya\usb\FSMAlanSeçmeSihirbazı.vfinal\FastFoodDemo\obj\Debug\Harezmiorneklendirme.csproj.AssemblyReference.cache
+C:\Users\Eren\Desktop\MasaÜstüDosyalar\projeandosya\usb\FSMAlanSeçmeSihirbazı.vfinal\FastFoodDemo\obj\Debug\FastFoodDemo.exe
+C:\Users\Eren\Desktop\MasaÜstüDosyalar\projeandosya\usb\FSMAlanSeçmeSihirbazı.vfinal\FastFoodDemo\obj\Debug\FastFoodDemo.pdb
